@@ -67,7 +67,7 @@
 # This will automatically detect your system language and print the appropriate hello world.
 go run .
 # Or, if you wanna print hello world in a language other than your system language
-go run . --language run
+go run . --language ru
 ```
 
 ## Debugging
