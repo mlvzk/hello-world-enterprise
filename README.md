@@ -1,6 +1,6 @@
 # Enterprise grade Hello World in Go, with support for 58 different languages.
 
-# Features
+## Features
 
 * Loosely tied, can easily swap any part
 * Support for 58 different languages
